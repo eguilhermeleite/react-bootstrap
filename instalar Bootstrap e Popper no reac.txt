@@ -1,0 +1,20 @@
+instalar Bootstrap e Popper no react
+
+//Bootstrap
+npm install bootstrap
+
+//Link Popper
+https://popper.js.org/
+
+//Popper (linha de comando copiado no link)
+npm i @popperjs/core
+
+
+importar bootstrap em index.js
+
+//css
+import 'bootstrap/dist/css/bootstrap.min.css';
+
+//js
+import 'bootstrap/dist/js/bootstrap';
+
